@@ -1,7 +1,7 @@
-# Open Source Course
+# Open Source Focus
 
-A practical, beginner-friendly introduction to the open source ecosystem.
-Learn how open source evolved, how to navigate repository workflows, and how to submit your first contribution with confidence.
+A practical, beginner-friendly course on the open source ecosystem.
+Learn how open source works, how to navigate real-world repositories, and how to submit contributions with confidence.
 
 ---
 
@@ -14,24 +14,23 @@ Learners should have basic familiarity with Git commands (`git clone`, `git comm
 
 ## Curriculum
 
-| Lesson | Title | Status |
-|--------|-------|--------|
-| [01](lessons/01-history/) | [History of Open Source](lessons/01-history/) | Available |
-| [02](lessons/02-people/) | [Key People in Open Source](lessons/02-people/) | Coming soon |
-| [03](lessons/03-repo-files/) | [Repository Files](lessons/03-repo-files/) | Coming soon |
-| [04](lessons/04-contributing-md/) | [Reading CONTRIBUTING.md](lessons/04-contributing-md/) | Coming soon |
-| [05](lessons/05-choosing-project-and-task/) | [Choosing a Project and Task](lessons/05-choosing-project-and-task/) | Coming soon |
-| [06](lessons/06-before-you-start/) | [Before You Start](lessons/06-before-you-start/) | Coming soon |
-| [07](lessons/07-exercise/) | [Hands-On Exercise](lessons/07-exercise/) | Coming soon |
+| # | Lecture | Status |
+|---|---------|--------|
+| 01 | [Reading CONTRIBUTING.md & Choosing a Task](lessons/01-reading-contributing-and-choosing-a-task/) | Available |
+| 02 | [Issues, Labels & Task Scoping](lessons/02-issues-labels-and-task-scoping/) | Coming soon |
+| 03 | [Open Source Licenses](lessons/03-open-source-licenses/) | Coming soon |
+| 04 | [Pull Requests & Code Review Culture](lessons/04-pull-requests-and-code-review/) | Coming soon |
+| 05 | [README & Project Documentation](lessons/05-readme-and-project-documentation/) | Coming soon |
+| 06 | [Issue Templates & Bug Reports](lessons/06-issue-templates-and-bug-reports/) | Coming soon |
 
 ---
 
 ## How to Use This Course
 
-1. **Follow the sequence:** Lessons build upon concepts introduced in previous modules. Start with Lesson 01 and progress in order.
+1. **Follow the sequence:** Lectures build upon concepts introduced in previous modules. Start with Lecture 01 and progress in order.
 2. **Read on screen:** Content is formatted with concise points, tables, and diagrams designed for easy reading on screen.
-3. **Inspect real repositories:** When lessons reference real-world examples and files (like `CONTRIBUTING.md` or issue trackers), open them in a separate browser tab to observe live implementations.
-4. **Complete the exercises:** Apply what you learn by completing the practical workflows outlined in the final lesson.
+3. **Inspect real repositories:** When lectures reference real-world examples and files (like `CONTRIBUTING.md` or issue trackers), open them in a separate browser tab to observe live implementations.
+4. **Complete the exercises:** Apply what you learn by completing the practical workflows outlined in the final section of Lecture 01.
 
 ---
 
